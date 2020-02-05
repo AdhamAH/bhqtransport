@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/AdhamAH/bhqtransport/static/css/main.5a1c4abd.chunk.css",
+    "main.js": "/AdhamAH/bhqtransport/static/js/main.d996ae74.chunk.js",
+    "main.js.map": "/AdhamAH/bhqtransport/static/js/main.d996ae74.chunk.js.map",
+    "runtime-main.js": "/AdhamAH/bhqtransport/static/js/runtime-main.de503863.js",
+    "runtime-main.js.map": "/AdhamAH/bhqtransport/static/js/runtime-main.de503863.js.map",
+    "static/css/2.58f92d12.chunk.css": "/AdhamAH/bhqtransport/static/css/2.58f92d12.chunk.css",
+    "static/js/2.cd007333.chunk.js": "/AdhamAH/bhqtransport/static/js/2.cd007333.chunk.js",
+    "static/js/2.cd007333.chunk.js.map": "/AdhamAH/bhqtransport/static/js/2.cd007333.chunk.js.map",
+    "index.html": "/AdhamAH/bhqtransport/index.html",
+    "precache-manifest.c65986b520607ae093e45e1cc0884b45.js": "/AdhamAH/bhqtransport/precache-manifest.c65986b520607ae093e45e1cc0884b45.js",
+    "service-worker.js": "/AdhamAH/bhqtransport/service-worker.js",
+    "static/css/2.58f92d12.chunk.css.map": "/AdhamAH/bhqtransport/static/css/2.58f92d12.chunk.css.map",
+    "static/css/main.5a1c4abd.chunk.css.map": "/AdhamAH/bhqtransport/static/css/main.5a1c4abd.chunk.css.map",
+    "static/js/2.cd007333.chunk.js.LICENSE.txt": "/AdhamAH/bhqtransport/static/js/2.cd007333.chunk.js.LICENSE.txt",
+    "static/media/contactpage.scss": "/AdhamAH/bhqtransport/static/media/contact.1e6cc5be.jpg",
+    "static/media/informatie.scss": "/AdhamAH/bhqtransport/static/media/dilivery.4997fe7a.jpg",
+    "static/media/header.style.scss": "/AdhamAH/bhqtransport/static/media/on-van-logo copy.6a940f7e.png",
+    "static/media/index.css": "/AdhamAH/bhqtransport/static/media/roboto-latin-900italic.ebf6d164.woff2",
+    "static/media/van copy.jpg": "/AdhamAH/bhqtransport/static/media/van copy.e59ae958.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de503863.js",
+    "static/css/2.58f92d12.chunk.css",
+    "static/js/2.cd007333.chunk.js",
+    "static/css/main.5a1c4abd.chunk.css",
+    "static/js/main.d996ae74.chunk.js"
+  ]
+}
