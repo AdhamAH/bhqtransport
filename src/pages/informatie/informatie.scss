@@ -1,0 +1,27 @@
+.informatie{
+    margin: 10px 0px 20px 10px;
+    .img{
+        background-image: url('../../img/dilivery.jpg');
+        background-position: cover;
+        background-size: 80%;
+        background-repeat: no-repeat;
+    }
+    .info-in{
+        .icons-box{
+            display: flex;
+            flex-direction: column;
+            .info-icons{
+                width: 40px;
+                height: 40px;
+                color: royalblue;
+                align-self: flex-start;
+                margin-right: 5%;   
+            }
+            .text{
+                text-decoration: none;
+                color:red;
+                font-size: large;
+            }
+        }
+    }
+}
